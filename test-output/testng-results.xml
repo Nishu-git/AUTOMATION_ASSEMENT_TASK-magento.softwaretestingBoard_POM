@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-26T16:28:08 IST" name="Default suite" finished-at="2024-12-26T16:28:42 IST" duration-ms="33755">
+    <groups>
+    </groups>
+    <test started-at="2024-12-26T16:28:08 IST" name="Default test" finished-at="2024-12-26T16:28:42 IST" duration-ms="33755">
+      <class name="LUNA_SIGNup_TESTcases.TC_SignUp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LUNA_SIGNup_TESTcases.TC_SignUp@411f53a0]" started-at="2024-12-26T16:28:08 IST" name="setUp" finished-at="2024-12-26T16:28:36 IST" duration-ms="27565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sigNup()[pri:0, instance:LUNA_SIGNup_TESTcases.TC_SignUp@411f53a0]" started-at="2024-12-26T16:28:36 IST" name="sigNup" finished-at="2024-12-26T16:28:42 IST" duration-ms="5801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigNup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LUNA_SIGNup_TESTcases.TC_SignUp@411f53a0]" started-at="2024-12-26T16:28:42 IST" name="tearDown" finished-at="2024-12-26T16:28:42 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LUNA_SIGNup_TESTcases.TC_SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
